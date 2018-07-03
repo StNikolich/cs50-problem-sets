@@ -56,4 +56,4 @@ $ cd pset1/hello
 $ submit50 cs50/2018/x/hello
 ```
 
-[Back to main](/README.md "Back to main")
+[Back to main](/pset1/README.md "Back to main")
