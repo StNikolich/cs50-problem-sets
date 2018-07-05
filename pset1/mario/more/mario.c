@@ -15,11 +15,9 @@ int main(void)
     }
     while (height < 0 || height > 23);
 
-    int count_hash = 2;
-    for (int i = 0; i < height; i++)
+    for (int i = 1; i <= height; i++)
     {
-        printf("%s%s\n", str_repeat(" ", height - count_hash + 1), str_repeat("#", count_hash));
-        count_hash++;
+        printf("%s%s  %s\n", str_repeat(" ", height - i), str_repeat("#", i), str_repeat("#", i));
     }
 }
 
