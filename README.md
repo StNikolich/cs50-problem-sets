@@ -17,3 +17,5 @@ All problem sets code went thought:
 Navigation by sets:
 
 * [Problem set 1](/pset1/README.md "Pset1")
+
+* [Problem set 2](/pset2/README.md "Pset2")
