@@ -30,7 +30,7 @@ Run commands in console:
 ```
 $ cd pset2/caesar
 $ ./caesar 13
-$ plaintext:  HELLO
+$ plaintext: HELLO
 $ ciphertext: URYYB
 ```
 
